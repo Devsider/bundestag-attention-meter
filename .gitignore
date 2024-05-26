@@ -139,3 +139,14 @@ dist
 *.m4p
 *.m4v
 *.mpg
+
+
+# Image Files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.tiff
+*.tif
+*.bmp
