@@ -128,3 +128,14 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+# Video Files
+*.avi
+*.flv
+*.wmv
+*.mov
+*.mp4
+*.m4p
+*.m4v
+*.mpg
